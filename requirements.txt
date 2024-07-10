@@ -1,5 +1,5 @@
 aiocache==0.12.2
-aiohttp==3.9.3
+aiohttp==3.9.4
 alembic==1.13.1
 anthropic==0.30.1
 asyncpg==0.29.0
